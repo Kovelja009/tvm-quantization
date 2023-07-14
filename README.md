@@ -3,7 +3,7 @@
 In this project, we will look at TVM, a compiler for deep neural networks (DNNs),
 and try out its capability to automatically compile [quantized convolutions](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b) for CPU or GPU.
 
-You can find these experments in `testing/testing.ipynb`.
+You can find these experiments in `testing/testing.ipynb`.
 
 ## Setup
 
